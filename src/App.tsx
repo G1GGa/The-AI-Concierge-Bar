@@ -138,12 +138,12 @@ export default function App() {
     }
   };
 
-  // ჰენდლერი პროაქტიული "Surprise Me" ფუნქციისთვის
+  // Trigger handler for the proactive "Surprise Me" AI suggestion feature
   const triggerAiSurprise = () => {
     const surprisePrompt = "Surprise me! Pick a highly creative combo of 2 items from the catalog that would dramatically improve my workspace workflow or wellness today, and explain your premium curations.";
     setQuery(surprisePrompt);
     
-    // მცირე ტაიმაუტი, რომ იუზერმა დაინახოს ტექსტის შევსება და ძიება მყისიერად დაიწყოს
+    // Brief delay to ensure UI responsiveness before triggering the search
     setTimeout(() => {
       const submitBtn = document.getElementById('search-submit-btn');
       if (submitBtn) (submitBtn as HTMLButtonElement).click();
@@ -629,7 +629,7 @@ export default function App() {
             </div>
           </div>
 
-          {/* 🎯 პროაქტიული სლოტი ინტერფეისის ქვედა ნაწილში */}
+          {/* 🎯 Proactive suggestion slot in the lower interface area */}
           <div style={styles.proactiveSlot}>
             <button 
               onClick={triggerAiSurprise} 
