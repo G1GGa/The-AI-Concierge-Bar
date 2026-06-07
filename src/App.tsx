@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 // --- 1. TYPESCRIPT INTERFACES ---
 interface Product {
@@ -718,6 +719,7 @@ export default function App() {
         )}
 
       </div>
+      <Analytics />
     </div>
   );
 }
