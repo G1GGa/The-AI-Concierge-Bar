@@ -25,4 +25,6 @@ The engine is delivered as an encapsulated logic unit. To integrate:
 This project is proprietary software. All rights reserved. Unauthorized reproduction, modification, or integration into commercial products without explicit licensing is strictly prohibited.
 This project is licensed under GNU GPLv3. For commercial usage or integration into proprietary software without the copyleft requirement, please contact the author.
 
+This architecture is proprietary. For enterprise licensing and partnership inquiries, contact: gigaimerlishvili98@gmail.com
+
 
