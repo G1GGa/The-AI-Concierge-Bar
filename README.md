@@ -2,6 +2,8 @@
 
 The **AI Concierge Omni-Engine** is a multimodal search solution that transcends keyword-based indexing. It leverages Gemini's vision, semantic understanding, and context-aware reasoning to map user needs—ranging from explicit product searches to emotional states or lifestyle goals—directly to a curated catalog.
 
+The logic is encapsulated in a single, high-performance React component, designed for seamless drop-in integration.
+
 ## Core Value Proposition
 - **Multimodal Intelligence:** Processes text, voice, and visual inputs simultaneously to understand intent beyond surface-level queries.
 - **Contextual Reasoning:** Instead of matching strings, it understands the "vibe" and "problem" the user is trying to solve (e.g., "My back hurts" maps to ergonomic solutions).
@@ -21,3 +23,5 @@ The engine is delivered as an encapsulated logic unit. To integrate:
 ## License & Usage
 **© 2026 [Giga Imerlishvili / AI Concierge bar]**
 This project is proprietary software. All rights reserved. Unauthorized reproduction, modification, or integration into commercial products without explicit licensing is strictly prohibited.
+
+
