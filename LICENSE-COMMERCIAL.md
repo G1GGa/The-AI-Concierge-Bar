@@ -48,4 +48,12 @@ Contact: gigaimerlishvili98@gmail.com
 
 By choosing the commercial licensing route, the organization acknowledges the author's intellectual property and agrees to negotiate terms that reflect the software's value to their infrastructure.
 
+##"Support Scope & Responsibility"
+
+The Author provides support regarding the functionality and integrity of the licensed solution itself.
+
+The Licensee is solely responsible for the integration of the solution into their proprietary infrastructure, including hardware compatibility, environment configuration, and end-user product development.
+
+Any custom architectural consulting or on-site integration assistance requested by the Licensee will be subject to a separate consulting agreement and rate.
+
 
