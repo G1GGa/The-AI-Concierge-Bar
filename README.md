@@ -24,8 +24,11 @@ The engine is delivered as an encapsulated logic unit. To integrate:
 **© 2026 [Giga Imerlishvili / AI Concierge bar]**
 This project is proprietary software. All rights reserved. Unauthorized reproduction, modification, or integration into commercial products without explicit licensing is strictly prohibited.
 
-## Commercial Usage & Licensing
-This project is released under the GNU AGPLv3 license. This ensures that the software remains open-source and that any derivative works or integrated services also contribute back to the community.
+## This project is dual-licensed:
+
+Open Source: Distributed under the AGPLv3 license for open-source projects and public research.
+
+Commercial: For proprietary, closed-source, or commercial enterprise applications, a Commercial License is required.
 
 ## Looking for a Proprietary License?
 While the AGPLv3 license is perfect for open-source contributions, I understand that enterprise environments often require greater flexibility. If you are interested in integrating this technology into a closed-source product, a SaaS platform, or an internal enterprise system without the copyleft obligations of the AGPLv3, I offer commercial licensing options.
