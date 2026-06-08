@@ -24,6 +24,8 @@ The engine is delivered as an encapsulated logic unit. To integrate:
 **© 2026 [Giga Imerlishvili / AI Concierge bar]**
 This project is proprietary software. All rights reserved. Unauthorized reproduction, modification, or integration into commercial products without explicit licensing is strictly prohibited.
 
+Commercial Use: For enterprise/closed-source integration, please refer to the LICENSE-COMMERCIAL.md file.
+
 ## This project is dual-licensed:
 
 Open Source: Distributed under the AGPLv3 license for open-source projects and public research.
